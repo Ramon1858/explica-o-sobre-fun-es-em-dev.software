@@ -1,1 +1,5 @@
-# explica-o-sobre-fun-es-em-dev.software
+# explicando_sobre_funcoes_em_dev.software
+o scrum master age como um grande facilitador, ajudando a equipe a seguir as práticas da metodologia scrum,ele deve agilizar as reuniões diárias, as retrospectivas e revisões. O scrum master age também como coaching , dando mentorias ao PO e aos funcionários pra um trabalho mais eficiente,talvez a mais esquecida e mais importante das funções é que ele protege a sua equipe de interferências externas, permitindo que os membros se concentrem nas tarefas.
+Já PO toma decisões estratégicas sobre o produto, ajustando as prioridades conforme necessário,ele também atua como gestor do backlog,garantindo que a sua equipe esteja sempre trabalhando segundo as prioridades,nem sempre o PO(Product Owner) vai saber tudo sobre o programa usado, porém ele com certeza é o que mais sabe sobre o produto requisitado.
+o lider da equipe de TI coordena as atividades da equipe, supervisiona o progresso dos projetos e garante que os objetivos sejam alcançados.Além disso ele deve incentivas os funcionario de TI para o trabalho ser mais tranquilo e com menos preocupações.
+A equipe de tecnologia é a base dessa piramide,equipe essa que sua unica função é a de obedecer,porém essa base é a que sustenta tudfo,pois sem ela nada aconteceria,eles são aqueles que fazem os codígos,enfim ,fazem tudo funcionar. 
